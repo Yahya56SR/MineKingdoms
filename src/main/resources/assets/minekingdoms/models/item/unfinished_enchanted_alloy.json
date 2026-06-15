@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minekingdoms:item/unfinished_enchanted_alloy"
+  }
+}
